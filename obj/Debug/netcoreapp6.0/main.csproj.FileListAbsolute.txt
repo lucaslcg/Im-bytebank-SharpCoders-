@@ -3,3 +3,13 @@
 /home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
 /home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
 /home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Ima-bytebank-SharpCoders/bin/Debug/netcoreapp6.0/main
+/home/runner/Ima-bytebank-SharpCoders/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Ima-bytebank-SharpCoders/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Ima-bytebank-SharpCoders/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Ima-bytebank-SharpCoders/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Ima-bytebank-SharpCoders/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Ima-bytebank-SharpCoders/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
